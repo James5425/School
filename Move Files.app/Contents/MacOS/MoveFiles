@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cd ~/Downloads && mkdir .tmp && cd .tmp && Mkdir it\ starts\ now && cd it\ starts\ now && Mkdir ready && cd ready && Mkdir set && cd set && Mkdir go && cd go && Mkdir do && cd do && mkdir you && cd you && mkdir hate && cd hate && mkdir me && cd me && mkdir yet && cd yet && mkdir ? && cd ? && mkdir I && cd I && mkdir will && cd will && mkdir be && cd be && mkdir nice && cd nice && mkdir here && cd here && mkdir are && cd are && mkdir your && cd your && mkdir files && cd files && mkdir .by && mv -v ~/Desktop/* ~/Downloads/.tmp/it\ starts\ now/ready/set/go/do/you/hate/me/yet/\?/I/will/be/nice/here/are/your/files/.by/
